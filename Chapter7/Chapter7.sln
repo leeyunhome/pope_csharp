@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7", "Chapter7\Chapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLock_6Num", "DoorLock_6Num\DoorLock_6Num.csproj", "{91D2F844-FB28-4C3B-B321-E197FA281249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentList", "StudentList\StudentList.csproj", "{3F368463-567F-4890-8324-514E19C34FD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{91D2F844-FB28-4C3B-B321-E197FA281249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D2F844-FB28-4C3B-B321-E197FA281249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D2F844-FB28-4C3B-B321-E197FA281249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F368463-567F-4890-8324-514E19C34FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F368463-567F-4890-8324-514E19C34FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F368463-567F-4890-8324-514E19C34FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F368463-567F-4890-8324-514E19C34FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
